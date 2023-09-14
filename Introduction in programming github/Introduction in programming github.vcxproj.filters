@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h">
+    <ClInclude Include="1 %28Basic exercises%29.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="2 ( if  and switch).h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

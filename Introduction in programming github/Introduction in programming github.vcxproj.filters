@@ -24,5 +24,8 @@
     <ClInclude Include="3 ( for cycle) .h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="4 ( functions) .h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

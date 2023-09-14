@@ -21,5 +21,8 @@
     <ClInclude Include="2 ( if  and switch).h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="3 ( for cycle) .h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClInclude Include="1 %28Basic exercises%29.h" />
     <ClInclude Include="2 ( if  and switch).h" />
+    <ClInclude Include="3 ( for cycle) .h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

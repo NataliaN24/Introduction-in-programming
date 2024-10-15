@@ -168,7 +168,7 @@ void smallLetters(char arr[])
 //	Вход: [1, 5, 6, 3, 0, -1, 2, 9, 7] , 3 Изход : [1, 0, 2, , -1, 3, 6, 5, 9, 7]
 //
 
-//from me
+//
 
 void  arrayLeftRight(int arr[], int size, int el)
 {
@@ -222,7 +222,7 @@ void  arrayLeftRight(int arr[], int size, int el)
 
 }
 
-//other solution not from me
+//other solution 
 
 //void arrayLeftRight(int arr[], int size, int el) {
 //	int newArr[50] = { 0 };
